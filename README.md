@@ -1,0 +1,2 @@
+# MachineTranslation-GRU-
+English - Japanese
